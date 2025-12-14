@@ -1,4 +1,4 @@
-# File-Encryption-and-Decryption-using-Shell-Scripting
+### File Encryption and Decryption using Shell Scripting
 
 # **INTRODUCTION**
 For securing the data from unauthorized persons or victims, file encryption 
