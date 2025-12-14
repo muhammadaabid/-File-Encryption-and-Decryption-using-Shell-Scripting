@@ -1,4 +1,4 @@
-# File-Encryption-and-Decryption-using-Shell-Scripting**
+# File-Encryption-and-Decryption-using-Shell-Scripting \n
 **INTRODUCTION**
 For securing the data from unauthorized persons or victims, file encryption 
 and decryption plays a very crucial role to protect the files. The exponential growth of 
